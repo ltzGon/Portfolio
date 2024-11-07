@@ -10,8 +10,8 @@ export const Bio = {
   description:
     "I am an Electronics Engineering (Computer) student with a strong interest in studying website design. I am currently seeking an internship to apply my technical skills in real-world projects and further develop my abilities in these areas.",
   github:     "https://github.com/ltzGon",
-  resume:     "https://drive.google.com/file/d/1yVhbBk4dnJDjPqRI9So2CrOZQzyVYRz-/view?usp=drive_link",
-  transcript: "https://drive.google.com/file/d/1VRg2lGwis98V2HBxgbq4jOzz46ksIV1O/view?usp=drive_link",
+  resume:     "https://drive.google.com/file/d/1yVhbBk4dnJDjPqRI9So2CrOZQzyVYRz-/view?usp=sharing",
+  transcript: "https://drive.google.com/file/d/1VRg2lGwis98V2HBxgbq4jOzz46ksIV1O/view?usp=sharing",
   insta:      "https://www.instagram.com/dekchaigon/",
   facebook:   "https://www.facebook.com/Gon1811/",
 };
