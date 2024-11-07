@@ -175,7 +175,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://yt3.googleusercontent.com/Dg-rzFmXzSAJN8ev-e1BCJPDYFn5Zyulb3z48DHg0TLDKMpqj9wuMmGcplYIrYd8Q97PfCH8JQ=s900-c-k-c0x00ffffff-no-rj",
+    img: "https://tonyeducation.com/wp-content/uploads/2020/07/KMUTNB-Logo-feature-img.jpg",
     school: "King Mongkut's University of Technology North Bangkok",
     date:   "July 2021 - Present",
     grade:  "2.24 GPAX",

@@ -4,7 +4,6 @@ import HeroSection from "./components/HeroSection";
 import { ThemeProvider } from "styled-components";
 import Experience from "./components/Experience";
 import Education from "./components/Education";
-import Contact from "./components/Contact";
 import Skills from "./components/Skills";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
@@ -40,7 +39,6 @@ function App() {
           </Wrapper>
           <Wrapper>
             <Education />
-            <Contact />
           </Wrapper>
           <Footer />
         </Body>
